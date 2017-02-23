@@ -20,7 +20,7 @@ public:
 	
 	//* copy - konstruktor
 
-	//* tilldelningsoperator
+	//* tilldelningsoperator 1
 	void addLast(T item);
 
 	void addFirst(T item);
